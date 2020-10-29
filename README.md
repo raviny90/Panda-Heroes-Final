@@ -1,6 +1,6 @@
 # Panda-Heroes-Final
 
-+ ![](Images/Fantasy.png)
+![](Images/Fantasy.png)
 
 ## Heros of Pymoli The code located in the HerosOfPymoli.ipynb uses the data found in the resources file to create dataframes that present as following.
 
